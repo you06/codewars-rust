@@ -1,0 +1,11 @@
+[package]
+name = "rust-test"
+version = "0.1.0"
+authors = ["you06"]
+edition = "2018"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
+# arc_learn = { path = "./components/arc", default-features = false }
+good_vs_evil = { path = "./components/good_vs_evil", default-features = false }
