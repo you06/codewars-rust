@@ -1,4 +1,4 @@
-use good_vs_evil::test;
+use factorial_decomposition::test;
 
 fn main() {
     test();

@@ -1,5 +1,5 @@
 [package]
-name = "buying_a_car"
+name = "dir_reduc"
 version = "0.0.1"
 edition = "2018"
 publish = false
