@@ -21,6 +21,10 @@ name = "good_vs_evil"
 version = "0.0.1"
 
 [[package]]
+name = "recreation_one"
+version = "0.0.1"
+
+[[package]]
 name = "rust-test"
 version = "0.1.0"
 dependencies = [
@@ -29,5 +33,11 @@ dependencies = [
  "dir_reduc 0.0.1",
  "factorial_decomposition 0.0.1",
  "good_vs_evil 0.0.1",
+ "recreation_one 0.0.1",
+ "sum_of_pairs 0.0.1",
 ]
+
+[[package]]
+name = "sum_of_pairs"
+version = "0.0.1"
 

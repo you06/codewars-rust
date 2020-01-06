@@ -1,4 +1,4 @@
-use factorial_decomposition::test;
+use recreation_one::test;
 
 fn main() {
     test();

@@ -12,3 +12,5 @@ good_vs_evil = { path = "./components/good_vs_evil", default-features = false }
 buying_a_car = { path = "./components/buying_a_car", default-features = false }
 dir_reduc = { path = "./components/dir_reduc", default-features = false }
 factorial_decomposition = {path = "./components/factorial_decomposition", default-features = false }
+sum_of_pairs = {path = "./components/sum_of_pairs", default-features = false }
+recreation_one = {path = "./components/recreation_one", default-features = false }
