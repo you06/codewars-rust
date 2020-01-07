@@ -1,0 +1,1 @@
+https://www.codewars.com/kata/5894134c8afa3618c9000146/train/rust

@@ -14,3 +14,5 @@ dir_reduc = { path = "./components/dir_reduc", default-features = false }
 factorial_decomposition = {path = "./components/factorial_decomposition", default-features = false }
 sum_of_pairs = {path = "./components/sum_of_pairs", default-features = false }
 recreation_one = {path = "./components/recreation_one", default-features = false }
+chess_board_cell_color = {path = "./components/chess_board_cell_color", default-features = false }
+decode_the_morse_code = {path = "./components/decode_the_morse_code", default-features = false }
