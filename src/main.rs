@@ -1,4 +1,4 @@
-use decode_the_morse_code::test;
+use next_smaller_number_with_same_digits::test;
 
 fn main() {
     test();
