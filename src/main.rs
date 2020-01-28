@@ -1,4 +1,4 @@
-use next_smaller_number_with_same_digits::test;
+use twice_linear::test;
 
 fn main() {
     test();

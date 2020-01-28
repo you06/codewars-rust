@@ -17,4 +17,6 @@ edition = "2018"
 # chess_board_cell_color = {path = "./components/chess_board_cell_color", default-features = false }
 # decode_the_morse_code = {path = "./components/decode_the_morse_code", default-features = false }
 # sum_by_factors = {path = "./components/sum_by_factors", default-features = false }
-next_smaller_number_with_same_digits = {path = "./components/next_smaller_number_with_same_digits", default-features = false}
+# next_smaller_number_with_same_digits = {path = "./components/next_smaller_number_with_same_digits", default-features = false}
+# range_extraction = {path = "./components/range_extraction", default-features = false}
+twice_linear = {path = "./components/twice_linear", default-features = false}
